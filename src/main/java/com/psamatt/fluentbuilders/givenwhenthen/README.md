@@ -8,7 +8,7 @@ with but utilising Java8 Consumer to action "something"
 Simple example:
 ```java
 int number = ...;
-int newNumber = given(number)
+given(number)
     .when(i -> i > 10000)
         .then(i -> doSomething())
     .when(i -> i > 1000)
