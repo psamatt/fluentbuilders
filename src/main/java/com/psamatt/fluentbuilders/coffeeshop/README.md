@@ -7,7 +7,7 @@ syrup thats extra hot, skinny and also size Large or just a basic tap water.
 
 Simple Coffee example:
 ```java
-Coffee coffee = coffee(LATTE)
+Latte latte = coffee(LATTE)
         .withOption(syrup(HAZLENUT))
         .withOption(skinny())
         .size(STANDARD);
