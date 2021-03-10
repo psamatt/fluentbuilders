@@ -10,5 +10,6 @@ This project also utilises record classes found in Java 15
 - Java 15
 
 #### Current Implementations
+- [CoffeeShop](./src/main/java/com/psamatt/fluentbuilders/coffeeshop)
 - [Given When Then](./src/main/java/com/psamatt/fluentbuilders/givenwhenthen)
 - [Given When Then (Return)](./src/main/java/com/psamatt/fluentbuilders/givenwhenthenreturn)
